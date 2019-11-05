@@ -103,3 +103,4 @@ namespace PlayerLogApp
         }
     }
 }
+//Güncelleme
